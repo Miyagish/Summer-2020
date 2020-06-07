@@ -1,0 +1,15 @@
+﻿  dz.cpp
+C:\dz\dz\dz.cpp(142,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\dz\dz\dz.cpp(143,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\dz\dz\dz.cpp(146,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\dz\dz\dz.cpp(147,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\dz\dz\dz.cpp(162,48): warning C4305: +=: усечение из "double" в "float"
+C:\dz\dz\dz.cpp(163,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dz\dz\dz.cpp(164,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\dz\dz\dz.cpp(166,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\dz\dz\dz.cpp(166,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\dz\dz\dz.cpp(168,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\dz\dz\dz.cpp(168,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\dz\dz\dz.cpp(176,21): warning C4305: -=: усечение из "double" в "float"
+C:\dz\dz\dz.cpp(186,21): warning C4305: +=: усечение из "double" в "float"
+  dz.vcxproj -> C:\dz\Debug\dz.exe

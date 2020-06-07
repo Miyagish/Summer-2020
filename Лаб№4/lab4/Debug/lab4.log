@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+C:\4 Лаба\lab4\lab4.cpp(102,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\4 Лаба\lab4\lab4.cpp(137,20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab4.vcxproj -> C:\4 Лаба\Debug\lab4.exe
